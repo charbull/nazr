@@ -2,6 +2,8 @@
 
 Nazr is an innovative Android application designed to help you regain control over your digital habits and foster a distraction-free environment. In today's hyper-connected world, it's easy to get sidetracked by endless notifications and addictive apps. Nazr empowers you to set healthy boundaries for your app usage, promoting focus, productivity, and overall digital wellbeing.
 
+![Nazr App Demo](demo/nazr_small.gif)
+
 ## Key Features
 
 Nazr offers a suite of powerful features, all crafted with your focus in mind:
