@@ -43,3 +43,7 @@ By using Nazr, you can expect to:
 *   **Maintain Control:** Take charge of your phone usage with smart, secure, and flexible tools.
 
 Nazr is here to support you in creating a more intentional and less distracted digital life.
+
+## Development
+
+This application was implemented with the assistance of Gemini CLI and Conductor.

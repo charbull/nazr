@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nazr</string>
+    <string name="accessibility_service_description">Monitors app launches to enforce usage limits.</string>
+</resources>

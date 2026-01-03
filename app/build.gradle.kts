@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nazr"
+    namespace = "com.wellbeing.nazr"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.nazr"
+        applicationId = "com.wellbeing.nazr"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.wellbeing.nazr.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.wellbeing.nazr.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.wellbeing.nazr.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.wellbeing.nazr.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.wellbeing.nazr.app-debug-45:/xml_accessibility_service_config.xml.flat",
+        "source": "com.wellbeing.nazr.app-main-47:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.wellbeing.nazr.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.wellbeing.nazr.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.wellbeing.nazr.app-debug-45:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.wellbeing.nazr.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]
