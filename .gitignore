@@ -1,1 +1,4 @@
 *.hprof
+/gradle/
+.DS_Store
+/build/
